@@ -9,7 +9,10 @@ Welcome to my GitHub profile! 🚀 I'm passionate about **data visualization, we
 - 🌱 **Learning**: Power BI, and advanced Machine Learning techniques
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=RiteshPathak15&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshPathak15&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RiteshPathak15&theme=radical)
+
 
 ## 📫 Connect with Me
 - LinkedIn: [Your LinkedIn Profile]((https://www.linkedin.com/in/ritesh-pathak-a6b729306/))
