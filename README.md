@@ -16,7 +16,7 @@ Welcome to my GitHub profile! 🚀 I'm passionate about **data visualization, we
 
 
 ## 📫 Connect with Me
-- LinkedIn: [Your LinkedIn Profile]([https://www.linkedin.com/in/ritesh-pathak-a6b729306/])
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/ritesh-pathak-a6b729306/)
 - Portfolio: [Your Website](https://your-portfolio.com)
 - Email: pathakritesh982@gmail.com
 
