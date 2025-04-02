@@ -5,6 +5,14 @@ Welcome to my GitHub profile! 🚀 I'm passionate about **data visualization, we
 ## 🔥 About Me
 - 🎓 **Education**: B.Sc in Information Technology at Pillai College of Arts, Commerce, and Science
 - 💻 **Tech Stack**: HTML, CSS, JavaScript, ReactJS, Node.js, Express.js, MongoDB, Python,SQL,Excel,PowerBi
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat&logo=jupyter&logoColor=white)
+
 - 📊 **Interests**: Data Science, Business Intelligence, Software Development
 - 🌱 **Learning**: Power BI, and advanced Machine Learning techniques
 
